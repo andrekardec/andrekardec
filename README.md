@@ -26,7 +26,7 @@
   <br>
   🎓 I'm currently stuyding for a master's degree in Software Engineering at the Brasilia Catholic University
   <br>
-  🎓 I got my degree in Software Engineering at the Estácio de Sá (Rio de Janeiro, Brazil)
+  🎓 I got my degree in Software Engineering at the Estácio de Sá University (Rio de Janeiro, Brazil)
   <br>
   🎓 I'm about to get a Bachelor's degree in Math
   <br>
