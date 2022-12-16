@@ -15,7 +15,6 @@
     <a href="https://www.linkedin.com/in/andrekardec/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="#" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   <code><a href="#" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/#" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
@@ -24,15 +23,17 @@
   <br>
   🔬 I'm currently preparing to become a Professional AWS Solution Architect - SAP-C02
   <br>
-  🎓 I'm currently stuyding for a master's degree in Software Engineering at the Brasilia Catholic University
+  🎓 I'm currently studying for a master's degree in Software Engineering at the Brasilia Catholic University
   <br>
   🎓 I got my degree in Software Engineering at the Estácio de Sá University (Rio de Janeiro, Brazil)
   <br>
   🎓 I'm about to get a Bachelor's degree in Math
   <br>
+  🎓 I'm certified at the Harvard University in FinTech & Blockchain
+  <br>
   💻 I love writing code and learn new things about this endless world
   <br>
-  📚 I'm currently learning Rust and living and intelectual adventure in the Blockchain World
+  📚 I'm currently learning Rust and living an intellectual adventure in the Blockchain World
   <br>
   💬 Ask me anything about from <a href="https://github.com/andrekardec/andrekardec/issues" title="Issues">Here</a>
   <br>
