@@ -97,12 +97,12 @@
 <hr>
 <h3 align="center">🗣 Talk to me, pick the language. I'd love to practice 🗣</h3>
 <br>
-<center>
-<img title="Brazilian Portuguese" src="images/br.svg" width="35" height="25">
-<img title="English" src="images/en.svg" width="35" height="25">
-<img title="Spanish" src="images/es.svg" width="35" height="25">
-<img title="French" src="images/fr.svg" width="35" height="25">
-<img title="Italian" src="images/it.svg" width="35" height="25">
-<img title="German" src="images/de.svg" width="35" height="25">
-</center>
+<p align="center">
+<code><img title="Brazilian Portuguese" src="images/br.svg" width="35" height="25"></code>
+<code><img title="English" src="images/en.svg" width="35" height="25"></code>
+<code><img title="Spanish" src="images/es.svg" width="35" height="25"></code>
+<code><img title="French" src="images/fr.svg" width="35" height="25"></code>
+<code><img title="Italian" src="images/it.svg" width="35" height="25"></code>
+<code><img title="German" src="images/de.svg" width="35" height="25"></code>
+</p>
 <hr>
