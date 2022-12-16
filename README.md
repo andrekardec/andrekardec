@@ -6,6 +6,10 @@
   </a>
 </h1>
 
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👽 Andre Kardec Pereira | 💻 Full Stack Software Engineer | 🛸 Brasilia, Brazil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
+
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/andrekardec/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
