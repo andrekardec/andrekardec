@@ -38,7 +38,6 @@
   <br>
   📫 How to reach me: <a href="mailto: oandrekardec@gmail.com">oandrekardec@gmail.com</a>
 </p>
-
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <p>Not updated</p>
@@ -96,24 +95,14 @@
 </p>
 
 <hr>
-<h2 align="center">🏄 Coding Activity</h2>
-
-> Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://macropower.readthedocs.io/en/latest/#dynamic-ascii-graph)
-
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
-
-```
-
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
-
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
-
-<!-- links -->
-
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/andrekardec "Andre Kardec Pereira"
+<h3 align="center">🗣 Talk to me, pick the language. I'd love to practice 🗣</h3>
+<br>
+<center>
+<img title="Brazilian Portuguese" src="images/br.svg" width="35" height="25">
+<img title="English" src="images/en.svg" width="35" height="25">
+<img title="Spanish" src="images/es.svg" width="35" height="25">
+<img title="French" src="images/fr.svg" width="35" height="25">
+<img title="Italian" src="images/it.svg" width="35" height="25">
+<img title="German" src="images/de.svg" width="35" height="25">
+</center>
+<hr>
