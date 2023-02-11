@@ -27,7 +27,7 @@
   <br>
   🎓 I got my degree in Software Engineering at the Estácio de Sá University (Rio de Janeiro, Brazil)
   <br>
-  🎓 I'm about to get a Bachelor's degree in Math
+  🎓 I'm current engaged in an especialization at the Imperial College London in Mathematics for Machine Learning
   <br>
   🎓 I'm certified at the Harvard University in FinTech & Blockchain
   <br>
