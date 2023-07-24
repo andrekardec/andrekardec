@@ -77,7 +77,8 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-andrekardec.vercel.app&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://
+github-readme-stats-nine-sage-68.vercel.app&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </div>
 
 <hr>
