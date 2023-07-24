@@ -78,7 +78,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-[![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrekardec)](https://github.com/anuraghazra/github-readme-stats)
+[![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrekardec)](https://github.com/andrekardec/github-readme-stats)
 
 </div>
 
