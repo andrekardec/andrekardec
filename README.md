@@ -75,6 +75,11 @@
 </p>
 <hr>
 
+
+<h2>Stats</h2>
+
+[![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrekardec)](https://github.com/andrekardec/github-readme-stats)
+
 <hr>
 <h3 align="center">🗣 Talk to me, pick the language. I'd love to practice 🗣</h3>
 <br>
